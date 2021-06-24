@@ -1,1 +1,3 @@
 # Text-Restoration
+
+The four subfolders correspond to the steps completed so as to restore the stream of characters to their original state, in the following order: Word Boundary (restoring spaces), Sentence Boundary (restoring full stops), Capitalisation Detection (restoring uppercase characters) and finally Comma Detection (restoring commas). The file accuracy_calculator.py includes the code used to evaluate the accuracy of the aforementioned implementations, where minor adjustments are necessary based on which task is being assessed. More details about the breakdown of the project can be found in ML_Group_Report.pdf.
